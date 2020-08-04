@@ -25,8 +25,40 @@
         - surgimento de servidores web netscape
           - ascenção do APACHE (open source)
            - A PATCH = remendo
-      - WIP: copiar html...
-      - continuar 10:00
+      - Começo anos 90, site com 10 páginas (copiar e colar tudo)
+        - Cada navegador estilizasse a página do jeito que quisesse
+        - HTML foi insipirado no SGML (estruturar documentos governamentais que pudessem ser lidos por um computador)
+        - usuário poderia customizar (TRETA)
+        - style já existia antes do css (óbvio)
+        - 95, 96 aparecimento do css
+        - netscape superando mosaic
+        - ie 95 sai na frente porque implementava melhor o css
+        - acid3
+        - [A brief history of CSS until 2016](https://www.w3.org/Style/CSS20/history.html)
+        - browser wars IE vs netscape
+        - [The True Story of the Internet: Browser Wars](https://www.youtube.com/watch?v=VANORrzKX50)
+        - netscape mudou da ideia de vender o navegador e fundou a mozila
+        - opera, pioneiro em responsividade, palmtops, pockets pcs da época (antes da blackberry)
+        - surgimento do media types (media queries, oficiais 2012)
+        - dispositivos tatéis (cegos, surdos) tipo de media types
+        - opera popularizou o @media
+        - IE fortaleceu a integração do browser com o SO
+          - MIME, envio de arquivos por e-mail
+          - file explorer
+          - MS forçava o uso do IE treta na europa
+      - apache posibilitava manipular o html antes de enviat (templates)
+        - nascimento da profissão de web designer (começou com designer de revistas tentando traspor o conteúdo da revista para a web)
+        - período barroco do design na web (AKITA)
+      - Surgimento do IIS, salvar dados da enviados pela web no banco de dados
+        - e-comerces
+        - internet information services
+        - front page server extensions (páginas dinâmicas com validações de formulários)
+          - páginas com essa extensão só podiam rodar em IIS e IE
+        - PHP - servidor possui a lógica para devolver o HTML
+        - MS, adicionando a extensão de ASP no IIS
+        - guerra do server side PHP x ASP
+        - codefusion (XML) inspirado pelo JSP
+      - continuar 18:00
 - [ ] Montar estrutura de tópicos história do javascript fireship.io
   - [The Weird History of JavaScript](https://www.youtube.com/watch?v=Sh6lK57Cuk4)
 
