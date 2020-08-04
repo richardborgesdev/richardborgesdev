@@ -58,7 +58,34 @@
         - MS, adicionando a extensão de ASP no IIS
         - guerra do server side PHP x ASP
         - codefusion (XML) inspirado pelo JSP
-      - continuar 18:00
+      - servidor web x servidor de aplicação
+      - abertura de capital da netscape
+        - ssl
+      - primeiros CMS (filenet, vignette) e então wordpress
+      - css 1 para css 2 (web fonts, de tabela para tableless)
+        - DHTML, AJAX
+        - surgimento do gmail (personificação de tudo que bill gates temia, AKITA)
+        - navegadores web se tornassem subtitutos dos SOs
+        - gmail primeiro case de sucesso para substituição de uma aplicação nativa
+      - tudo na web são trees
+      - era java, surgimentos de frameworks
+       - estrutura pré-definida para desenvolvimento (segurança, templates)
+       - zend
+       - ruby on rails
+       - blog em 15 minutos (fisl 2005)
+      - microframewroks, especializados em renderizar no navegador (independente)
+        - mootools, dojo toolkit, jquery, prototype, scriptaculous
+      - 2007 smartphones
+       - KHTML (webkit)
+       - 1024x768 vs 320x240
+      - 90s applets, java no browser, sandbox
+        - MS active x (c++ ou vb6)
+        - flash (action script)
+        - hardware limitado dos smartphones da época mataram esse tipo de abordagem
+        - apple se recusou a implementar flash no iphone
+      - continuar 30:00
+
+
 - [ ] Montar estrutura de tópicos história do javascript fireship.io
   - [The Weird History of JavaScript](https://www.youtube.com/watch?v=Sh6lK57Cuk4)
 
