@@ -83,9 +83,53 @@
         - flash (action script)
         - hardware limitado dos smartphones da época mataram esse tipo de abordagem
         - apple se recusou a implementar flash no iphone
-      - continuar 30:00
-
-
+    - 30:00
+      - carta aberta de steve jobs contra o flash
+      - ver vídeos era impossível sem plugins
+      - apple acelerou a reprodução de MP4 pelo browser (HTML5)
+      - surgimento do canvas, necessidade de animações canvas (css webgl)
+      - queda sun adquirida pela oracle, fim dos applets
+      - acontecimentos que forçaram o aceleramento do html5 (2014 - css3, javascript)
+      - 2008 ~ 20015, pior fase do desenvolvimento web, falta de padronização
+        - jquery quase obrigatório
+        - fim do flash, crescimen do javascript horrível (sem evoluções desde 2000)
+      - transpilers
+        - sass (ruby)
+        - less (twiter)
+        - coffeescript (ruby), conceitos de ruby e python (arrow functions)
+        - tableless, design responsivo nova classe de pesquisa UX
+      - primeiro smartphone apple, influenciou design (bauhaus 1919, 'design minimalista', valorização dos espaços em branco entre elementos)
+        - bibliotecas de estilos reusáveis (bootstrap (twitter), frameworks css)
+      - assets
+        - mundo pearl CPAN
+        - mundo ruby Bundler
+        - js npm, começou a se coçar depois do surgimento do yarn
+        - lentidão para baixar todos esses assets
+        - minificação
+          - assets pipeline
+          - grunt, gulp, webpack + babel
+          - * menos necessário com http2
+      - necessidade de ter o controle do estado da aplicação no lado do cliente
+        - frameworks js
+        - componentes, controlar individualmente estava ficando muito trabalhoso
+        - exemplo spotify
+        - ember, agularjs, react, vuejs
+        - SPA (ajax)
+        - google docks, slack, spotify
+        - sproutcore: apple na dianteira (icloud)
+        - google: GWT > angular > polymer
+        - facebook: react (virtual DOM, melhorar velocidade do redesenho)
+        - vuejs + laravel
+      - aplicativos hibridos (desktop + mobile)
+       - electron: encapsular tecnologias do chrome e abrir como aplicativo nativo
+       - react native
+       - flutter
+      - 25 anos de história
+        - importância da história
+        - autor original
+        - empresa que criou e por que
+        - "se você tem poucas perguntas, você não está se esforçando o suficiente" (AKITA)
+        - enxergar linha do tempo
 - [ ] Montar estrutura de tópicos história do javascript fireship.io
   - [The Weird History of JavaScript](https://www.youtube.com/watch?v=Sh6lK57Cuk4)
 
