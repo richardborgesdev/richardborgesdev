@@ -1,5 +1,5 @@
 ### todo
-- [ ] Montar estrutura de tópicos baseados no vídeo do akita
+- [X] Montar estrutura de tópicos baseados no vídeo do akita
   - [A História do Front-End para Iniciantes em Programação | Série "Começando aos 40"](https://www.youtube.com/watch?v=VKmPGmFY7H4&t=3s)
     - [The Front-End Spectrum](https://medium.com/@withinsight1/the-front-end-spectrum-c0f30998c9f0) | 1:23
     - "a história do front-end é a própria história da web" (AKITA) | 2:40
@@ -132,6 +132,30 @@
         - enxergar linha do tempo
 - [ ] Montar estrutura de tópicos história do javascript fireship.io
   - [The Weird History of JavaScript](https://www.youtube.com/watch?v=Sh6lK57Cuk4)
+    - 00:00
+      - tim berners lee: cristmas day 1990, first world web browser, switzerland, first web server
+      - 4 anos depois e ninguém sabia o que era internet direito
+      - december 5 1991
+      - https://www.w3.org/People/Berners-Lee/WorldWideWeb.html
+      - https://www.ecma-international.org/publications/standards/Ecma-262-arch.htm
+      - https://thenewstack.io/brendan-eich-on-creating-javascript-in-10-days-and-what-hed-do-differently-today/
+      - Al gore "Did Al Gore invented the internet?"
+        - provided founding to mosaic browser, first mainstream browser
+      - Marc Andreesen and Eric bina (illinois university)
+        - no JS only DOM
+        - Marc Andreesen co-found netscape
+        - Brendan Eich, scheme program language in the browser
+      - first js name was Mocha
+        - first class functions, dynamic typing and prototye inheritance (self programing language, sun)
+        - 10 days? :thinking:
+        - 95, mocha to livescript, netscape 2.0, rename to JS
+        - MS did a reverse engineering and created jscript
+        - created the necessity of a standard, ECMA (European Computer Manufacturers Association)
+        - 1997 first version of ECMA
+      - Brendan's regrets about strict equality operator, make "easier" to start learn JS
+    - 4:40
+      - 1999...
+
 
 ### Links
 1. https://cmo.adobe.com/articles/2017/7/a-brief-history-of-ui-and-whats-coming.html#gs.c2503g
