@@ -154,8 +154,32 @@
         - 1997 first version of ECMA
       - Brendan's regrets about strict equality operator, make "easier" to start learn JS
     - 4:40
-      - 1999...
-
+      - 1999 - dot com crash
+      - stock market crash
+      - ES3 - strict equality operator ===
+      - netscape was bought for AOL
+      - "56k are faster than never"
+      - ie 80% of market share
+      - ajax - pre cursor of SPA
+      - 2000
+        - ES4 - focus on javascript on enterprise scale
+        - Douglas Crockford (json 2003, Yahoo)
+        - ES3.1 vs ES4 (2008)
+        - ran applications in all browsers
+        - 2006 jquery (documentation)
+        - 2008 chrome + v8 (completely change the way how js was compiled)
+        - 2009 Ryan Dahl (nodejs)
+        - 2009 ES5, 10 years after the last oficial spec
+          - json support, array object methods, strict mode
+        - 2010 js frameworks (SPA)
+          - backbone and angularjs
+          - Jeremy Ashkenas (coffeescript, underscore js)
+        - 2015 ES6: promises, let and const, arrow functions, spread syntax
+         - prolific use of babel
+         - rise of react
+          - uniderectional dataflow, immutability, vDOM
+        - bundlers
+        - 2019 webassembly
 
 ### Links
 1. https://cmo.adobe.com/articles/2017/7/a-brief-history-of-ui-and-whats-coming.html#gs.c2503g
@@ -165,3 +189,4 @@
 1. Buscar por front-end history, não é uma boa
 1. indagação: "Sem GUI existiria PC?"
 1. indagação: "Com GUI e sem mouse existira PC?"
+
