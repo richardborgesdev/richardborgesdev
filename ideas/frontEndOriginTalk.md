@@ -195,7 +195,10 @@ https://www.computerhope.com/issues/ch001802.htm
 |Ano|Acontecimento|Descrição|link|
 |---|---|---|---|
 |1946|ENIAC|Teclado para digitar em cartões perfurados|https://www.computerhope.com/jargon/e/eniac.htm|
+|1963|Mouse|Douglas Engelbart, Difundido com o apple lisa|https://www.computerhope.com/jargon/m/mouse.htm, https://www.computerhope.com/issues/ch001083.htm
 |1964|Multics, VDTs,|Ver o que estava sendo digitado|https://www.computerhope.com/jargon/m/multics.htm, https://www.computerhope.com/jargon/m/monitor.htm|
 |inicio 1970|Altair|Sem teclados| https://www.computerhope.com/jargon/a/altair.htm|
+|1968|The Mother of All Demos| Primeira demonstração GUI| https://www.computerhope.com/jargon/t/the-mother-of-all-demos.htm
 |final 1970|Apple, Radio Shack, Commodore| Teclados vinham com o computador| |
 |1981| IBM Model F Keyboard| Origem do teclado atual| 
+|1986| IBM Model M Keyboard| teclas de funções | mecanico para membrana
