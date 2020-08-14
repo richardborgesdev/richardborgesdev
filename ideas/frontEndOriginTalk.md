@@ -199,6 +199,8 @@ https://www.computerhope.com/issues/ch001802.htm
 |1964|Multics, VDTs,|Ver o que estava sendo digitado|https://www.computerhope.com/jargon/m/multics.htm, https://www.computerhope.com/jargon/m/monitor.htm|
 |inicio 1970|Altair|Sem teclados| https://www.computerhope.com/jargon/a/altair.htm|
 |1968|The Mother of All Demos| Primeira demonstração GUI| https://www.computerhope.com/jargon/t/the-mother-of-all-demos.htm
-|final 1970|Apple, Radio Shack, Commodore| Teclados vinham com o computador| |
+|final 1970|Apple, Radio Shack, Commodore| Teclados vinham com o computador|
+|1978|TCP/IP|Bob Kahn and Vint Cerf| https://www.computerhope.com/jargon/t/tcpip.htm
 |1981| IBM Model F Keyboard| Origem do teclado atual| 
+|1983|DNS|Paul Mockapetris and Jon Postel|https://www.computerhope.com/jargon/d/dns.htm
 |1986| IBM Model M Keyboard| teclas de funções | mecanico para membrana
