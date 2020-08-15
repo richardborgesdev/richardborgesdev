@@ -130,7 +130,7 @@
         - empresa que criou e por que
         - "se você tem poucas perguntas, você não está se esforçando o suficiente" (AKITA)
         - enxergar linha do tempo
-- [ ] Montar estrutura de tópicos história do javascript fireship.io
+- [X] Montar estrutura de tópicos história do javascript fireship.io
   - [The Weird History of JavaScript](https://www.youtube.com/watch?v=Sh6lK57Cuk4)
     - 00:00
       - tim berners lee: cristmas day 1990, first world web browser, switzerland, first web server
@@ -198,9 +198,37 @@ https://www.computerhope.com/issues/ch001802.htm
 |1963|Mouse|Douglas Engelbart, Difundido com o apple lisa|https://www.computerhope.com/jargon/m/mouse.htm, https://www.computerhope.com/issues/ch001083.htm
 |1964|Multics, VDTs,|Ver o que estava sendo digitado|https://www.computerhope.com/jargon/m/multics.htm, https://www.computerhope.com/jargon/m/monitor.htm|
 |inicio 1970|Altair|Sem teclados| https://www.computerhope.com/jargon/a/altair.htm|
-|1968|The Mother of All Demos| Primeira demonstração GUI| https://www.computerhope.com/jargon/t/the-mother-of-all-demos.htm
+|**1968**|The Mother of All Demos| Primeira demonstração GUI| https://www.computerhope.com/jargon/t/the-mother-of-all-demos.htm
 |final 1970|Apple, Radio Shack, Commodore| Teclados vinham com o computador|
 |1978|TCP/IP|Bob Kahn and Vint Cerf| https://www.computerhope.com/jargon/t/tcpip.htm
-|1981| IBM Model F Keyboard| Origem do teclado atual| 
+|1981|IBM Model F Keyboard| Origem do teclado atual| 
 |1983|DNS|Paul Mockapetris and Jon Postel|https://www.computerhope.com/jargon/d/dns.htm
-|1986| IBM Model M Keyboard| teclas de funções | mecanico para membrana
+|1986|IBM Model M Keyboard| teclas de funções | mecanico para membrana
+---
+## Estrutura apresentação
+## Título: ???
+### motivação
+- Fabio Akita a história do front-end, série "Começando aos 40"
+- Fireship.io, série the weird javascript course
+- Black mirror, S04E06 - Black Museum
+- Minha história
+  - paixão gráfica:
+    - Crash Bandicoot - 1996 - 5 anos
+    - Curso de informática - 1999 - 8 anos
+      - programação em excel
+      - HowStuffWorks
+    - Tibia - 1997 - jogos online
+    - Técnico em informática Tupy - 2006 ~ 2008
+      - Percebi que a programação de jogos não era algo tão simples
+    - Ciências da computação - 2009 ~ 2013
+      - Computação gráfica
+      - Animação
+      - Sistemas multiagentes
+      - Inteligência artificia
+    - Primeiro emprego 2013, flash > html5, CaFE (Canvas Flowchart Engine - vanilla js)
+      - **paixão pelo front-end (HTML + JS + CSS)**
+    - Especialização em tecnologias e inovações web - 2017 ~ 2018
+      - cobrir falhas da graduação (não queria fazer engenharia de software)
+### antes da "The Mother of All Demos" 1968
+### criação HTML
+### guerras e mais guerras
