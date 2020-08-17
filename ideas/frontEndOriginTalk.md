@@ -196,6 +196,7 @@ https://www.computerhope.com/issues/ch001802.htm
 |---|---|---|---|
 |1946|ENIAC|Teclado para digitar em cartões perfurados|https://www.computerhope.com/jargon/e/eniac.htm|
 |1963|Mouse|Douglas Engelbart, Difundido com o apple lisa|https://www.computerhope.com/jargon/m/mouse.htm, https://www.computerhope.com/issues/ch001083.htm
+|1964|Monitor|Monitores crts| https://www.computerhope.com/history/monitor.htm
 |1964|Multics, VDTs,|Ver o que estava sendo digitado|https://www.computerhope.com/jargon/m/multics.htm, https://www.computerhope.com/jargon/m/monitor.htm|
 |inicio 1970|Altair|Sem teclados| https://www.computerhope.com/jargon/a/altair.htm|
 |**1968**|The Mother of All Demos| Primeira demonstração GUI| https://www.computerhope.com/jargon/t/the-mother-of-all-demos.htm
@@ -206,11 +207,12 @@ https://www.computerhope.com/issues/ch001802.htm
 |1986|IBM Model M Keyboard| teclas de funções | mecanico para membrana
 ---
 ## Estrutura apresentação
-## Título: ???
+## Título: ???, Do led que pisca ao fronte-end spectrum
 ### motivação
 - Fabio Akita a história do front-end, série "Começando aos 40"
 - Fireship.io, série the weird javascript course
 - Black mirror, S04E06 - Black Museum
+- Aula de introdução acelera dev
 - Minha história
   - paixão gráfica:
     - Crash Bandicoot - 1996 - 5 anos
@@ -224,11 +226,17 @@ https://www.computerhope.com/issues/ch001802.htm
       - Computação gráfica
       - Animação
       - Sistemas multiagentes
-      - Inteligência artificia
+      - Inteligência artificial
+      - TCC: Avaliação de uma estratégia para garantir coerência de cache e percepção em sistemas cooperativos com apoio à mobilidade
     - Primeiro emprego 2013, flash > html5, CaFE (Canvas Flowchart Engine - vanilla js)
       - **paixão pelo front-end (HTML + JS + CSS)**
     - Especialização em tecnologias e inovações web - 2017 ~ 2018
       - cobrir falhas da graduação (não queria fazer engenharia de software)
 ### antes da "The Mother of All Demos" 1968
+- como saimos da interface hardware para GUI (Graphical User Interface)
+  - cartões perfurados, máquina de escrever para cartões perfurados
+  - interfaces sem teclados
+  - **Douglas Engelbart**, mouse e teclado, pais do IHC 
+- evolução das redes
 ### criação HTML
 ### guerras e mais guerras
