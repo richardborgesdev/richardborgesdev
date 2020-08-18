@@ -238,5 +238,11 @@ https://www.computerhope.com/issues/ch001802.htm
   - interfaces sem teclados
   - **Douglas Engelbart**, mouse e teclado, pais do IHC 
 - evolução das redes
+  - começo do vídeo do akita
+    - IP, DNS, URL
 ### criação HTML
+- começo vídeo do akita
 ### guerras e mais guerras
+- server side war
+- browser war
+- js frameworks war
