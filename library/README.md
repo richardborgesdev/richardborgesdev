@@ -1,3 +1,9 @@
+# Carreira
+## vídeos
+* [5 dicas incríveis para melhorar seus skills em programação](https://youtu.be/3AbREg8ZNxs)
+## livros
+* [Dicas de carreira para devs](https://leanpub.com/dicas-carreira-devs) do [eminetto](https://github.com/eminetto)
+
 # Back-end
 * https://cursos.nodebr.org/p/node-js-para-iniciantes-nodebr
 
@@ -17,7 +23,6 @@
 * https://learngitbranching.js.org/
 
 # Javascript
-* https://certificacao.imasters.com.br/test/javascript-boas-praticas
 * [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript#table-of-contents)
 
 # Tooling
