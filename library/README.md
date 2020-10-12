@@ -36,47 +36,69 @@
     * settings.json
     ```json
     {
-        "files.associations": {
-            "*.inc": "php"
+        "workbench.startupEditor": "newUntitledFile",
+        "eslint.enable": true,
+        "eslint.alwaysShowStatus": true,
+        "eslint.validate": [
+            "javascript",
+            "javascriptreact",
+            {
+                "language": "vue",
+            },
+            {
+                "language": "html",
+            }
+        ],
+        "eslint.options": {
+            "extensions": [
+                ".js",
+                ".jsx",
+                ".ts",
+                ".tsx",
+                ".vue"
+            ]
         },
         "editor.minimap.enabled": false,
-        "editor.renderWhitespace": "all",
-        "editor.renderControlCharacters": true,
-        "breadcrumbs.enabled": true,
-        "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
-        "php.validate.executablePath": "C:\\Program Files\\php\\php.exe",
-        "php.validate.enable": true,
-        "php.validate.run": "onSave",
         "editor.rulers": [
-            120
+            100
         ],
-        "files.trimTrailingWhitespace": true,
-        "window.zoomLevel": 0,
-        "editor.fontSize": 13,
-        "explorer.confirmDelete": false,
-        "editor.wordWrapColumn": 120,
-        "workbench.startupEditor": "newUntitledFile",
+        "editor.renderWhitespace": "all",
+        "files.watcherExclude": {
+            "**/.git/objects/**": true,
+            "**/.git/subtree-cache/**": true,
+            "**/node_modules/*/**": true
+        },
         "workbench.editor.enablePreview": false,
-        "phpcs.executablePath": "C:/php/phpcs.bat",
-        "phpcs.standard": "C:/php/sesuite_ruleset.xml",
-        "phpcbf.executablePath": "C:/php/phpcbf.bat",
-        "phpcbf.standard": "C:/php/sesuite_ruleset.xml",
-        "extensions.ignoreRecommendations": false
+        "editor.tabSize": 2,
+        "editor.codeActionsOnSave": {
+            "source.fixAll.eslint": true
+        },
+        "javascript.updateImportsOnFileMove.enabled": "always",
+        "editor.fontSize": 12,
+        "diffEditor.ignoreTrimWhitespace": false,
+        "eslint.format.enable": true
     }
     ```
     * keybindings.json
     ```json
-    // Place your key bindings in this file to overwrite the defaults
     [
         {
-            "key": "ctrl+shift+u",
-            "command": "editor.action.transformToUppercase",
-            "when": "editorTextFocus"
+            "key": "ctrl+shift+down",
+            "command": "editor.action.copyLinesUpAction",
+            "when": "editorTextFocus && !editorReadonly"
         },
         {
-            "key": "ctrl+shift+l",
-            "command": "editor.action.transformToLowercase",
-            "when": "editorTextFocus"
+            "key": "ctrl+shift+alt+up",
+            "command": "-editor.action.copyLinesUpAction",
+            "when": "editorTextFocus && !editorReadonly"
+        },
+        {
+            "key": "ctrl+alt+u",
+            "command": "editor.action.transformToUppercase"
+        },
+        {
+            "key": "ctrl+alt+l",
+            "command": "editor.action.transformToLowercase"
         }
     ]
     ```
