@@ -5,17 +5,10 @@
 1. [5 dicas incríveis para melhorar seus skills em programação](https://youtu.be/3AbREg8ZNxs)
 
 # Engenharia de software
-## cursos
-1. [tdd (coursera)](https://pt.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes)
-
-# Vuejs
 ## artigos
-1. https://medium.com/@anthonygore/vue-development-in-2019-what-you-need-to-know-2170942f0e54
+1. [TDD](http://tdd.caelum.com.br/) (caelum)
 ## cursos
-1. https://www.vuemastery.com
-1. https://vueschool.io
-1. https://courses.vuejsdevelopers.com
-1. [vueschool/vue-js-performance](https://vueschool.io/articles/series/vue-js-performance/)
+1. [TDD](https://pt.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes) (coursera)
 
 # Git
 * https://learngitbranching.js.org/
@@ -27,8 +20,18 @@
 1. [gerenciamento de memória](https://medium.com/reactbrasil/como-o-javascript-funciona-gerenciamento-de-mem%C3%B3ria-como-lidar-com-4-vazamentos-comuns-de-5cfa341b9e39)
 ## cursos
 1. [node js para iniciantes (Erick Wendel)](https://cursos.nodebr.org/p/node-js-para-iniciantes-nodebr)
+1. [Mastering Async JavaScript](https://frontarm.com/courses/async-javascript/promises/why-async/) (frontarm)
 ## sites
 1. [exploringjs (Dr. Axel Rauschmayer)](http://exploringjs.com/)
+
+# Vuejs
+## artigos
+1. https://medium.com/@anthonygore/vue-development-in-2019-what-you-need-to-know-2170942f0e54
+## cursos
+1. https://www.vuemastery.com
+1. https://vueschool.io
+1. https://courses.vuejsdevelopers.com
+1. [vueschool/vue-js-performance](https://vueschool.io/articles/series/vue-js-performance/)
 
 # Tooling
 * https://www.markdownguide.org
@@ -102,6 +105,9 @@
         }
     ]
     ```
+# Outros
+1. [free ebooks for web designers web developers](https://medium.com/web-development-zone/top-free-ebooks-for-web-designers-web-developers-f8c6a70465ad)
+1. [vercel](https://vercel.com/home#get-started)
 
 # links to organize
 1. https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4
@@ -117,7 +123,3 @@
 1. https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd
 1. https://medium.com/fullstackio/tutorial-build-an-instagram-clone-with-vue-js-and-cssgram-24a9f3de0408
 1. https://www.atlassian.com/blog/inside-atlassian/14-inspiring-books-to-grow-your-career?_ga=2.92852381.12714603.1547030592-1959799315.1534512999
-1. https://frontarm.com/demoboard/
-1. https://zeit.co/now#get-started
-1. https://medium.com/web-development-zone/top-free-ebooks-for-web-designers-web-developers-f8c6a70465ad
-1. http://tdd.caelum.com.br/
