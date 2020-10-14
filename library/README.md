@@ -1,8 +1,17 @@
+# Algoritmos
+## Desafios
+1. https://www.codewars.com/
+
 # Carreira
 ## livros
 1. [Dicas de carreira para devs](https://leanpub.com/dicas-carreira-devs) ([eminetto](https://github.com/eminetto))
+1. [14 inspiring books to grow your career](https://www.atlassian.com/blog/inside-atlassian/14-inspiring-books-to-grow-your-career) (atlassian)
 ## vídeos
 1. [5 dicas incríveis para melhorar seus skills em programação](https://youtu.be/3AbREg8ZNxs)
+
+# CSS
+## sites
+1. http://flexboxfroggy.com/
 
 # Engenharia de software
 ## artigos
@@ -18,6 +27,8 @@
 1. [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript#table-of-contents)
 1. [typescript o guia definitivo](https://medium.com/@oieduardorabelo/typescript-o-guia-definitivo-1a63b04259cc)
 1. [gerenciamento de memória](https://medium.com/reactbrasil/como-o-javascript-funciona-gerenciamento-de-mem%C3%B3ria-como-lidar-com-4-vazamentos-comuns-de-5cfa341b9e39)
+1. [understanding design patterns in javascript](https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd) (Sukhjinder Arora
+)
 ## cursos
 1. [node js para iniciantes (Erick Wendel)](https://cursos.nodebr.org/p/node-js-para-iniciantes-nodebr)
 1. [Mastering Async JavaScript](https://frontarm.com/courses/async-javascript/promises/why-async/) (frontarm)
@@ -32,6 +43,11 @@
 1. https://vueschool.io
 1. https://courses.vuejsdevelopers.com
 1. [vueschool/vue-js-performance](https://vueschool.io/articles/series/vue-js-performance/)
+
+# Time
+## artigos
+1. [why your huge tech team isn’t delivering](https://blog.usejournal.com/why-your-huge-tech-team-isnt-delivering-3851be27712c) (Roger Nesbitt
+) 
 
 # Tooling
 * https://www.markdownguide.org
@@ -117,9 +133,3 @@
 1. https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0
 1. https://medium.com/@hopper_travel/users-dont-want-filters-they-want-better-content-3146f650b8f6
 1. https://medium.com/@kieranmaher13/why-i-use-nodejs-for-basically-everything-i-do-e0a627787ecc
-1. http://flexboxfroggy.com/
-1. https://blog.usejournal.com/why-your-huge-tech-team-isnt-delivering-3851be27712c
-1. https://www.codewars.com/
-1. https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd
-1. https://medium.com/fullstackio/tutorial-build-an-instagram-clone-with-vue-js-and-cssgram-24a9f3de0408
-1. https://www.atlassian.com/blog/inside-atlassian/14-inspiring-books-to-grow-your-career?_ga=2.92852381.12714603.1547030592-1959799315.1534512999
