@@ -19,6 +19,10 @@
 ## cursos
 1. [TDD](https://pt.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes) (coursera)
 
+# Front-ops
+## artigos
+1. [Summary of Webpack 4 Fundamentals by Sean Larkin (Part 1 of 4: Why Webpack?)](https://medium.com/@j_lim_j/summary-of-webpack-4-fundamentals-by-sean-larkin-part-1-of-4-why-webpack-e9112d81a588) (Lim, 2018)
+
 # Git
 * https://learngitbranching.js.org/
 
@@ -29,6 +33,7 @@
 1. [gerenciamento de memória](https://medium.com/reactbrasil/como-o-javascript-funciona-gerenciamento-de-mem%C3%B3ria-como-lidar-com-4-vazamentos-comuns-de-5cfa341b9e39)
 1. [understanding design patterns in javascript](https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd) (Sukhjinder Arora
 )
+1. [Understanding Execution Context and Execution Stack in Javascript](https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0) (Sukhjinder Arora)
 ## cursos
 1. [node js para iniciantes (Erick Wendel)](https://cursos.nodebr.org/p/node-js-para-iniciantes-nodebr)
 1. [Mastering Async JavaScript](https://frontarm.com/courses/async-javascript/promises/why-async/) (frontarm)
@@ -47,7 +52,11 @@
 # Time
 ## artigos
 1. [why your huge tech team isn’t delivering](https://blog.usejournal.com/why-your-huge-tech-team-isnt-delivering-3851be27712c) (Roger Nesbitt
-) 
+)
+
+# UX
+## artigos
+1. [Users Don’t Want Filters, They Want Better Content](https://medium.com/@hopper_travel/users-dont-want-filters-they-want-better-content-3146f650b8f6) (Hopper)
 
 # Tooling
 * https://www.markdownguide.org
@@ -129,7 +138,3 @@
 1. https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4
 1. https://medium.com/@fagnerbrack/the-test-should-verify-if-the-code-solves-the-problem-not-if-it-runs-afea37a3a6e
 1. https://medium.freecodecamp.org/how-to-understand-any-programming-task-aea41eabe66e
-1. https://medium.com/@j_lim_j/summary-of-webpack-4-fundamentals-by-sean-larkin-part-1-of-4-why-webpack-e9112d81a588
-1. https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0
-1. https://medium.com/@hopper_travel/users-dont-want-filters-they-want-better-content-3146f650b8f6
-1. https://medium.com/@kieranmaher13/why-i-use-nodejs-for-basically-everything-i-do-e0a627787ecc
