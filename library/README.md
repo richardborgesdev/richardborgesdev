@@ -3,6 +3,8 @@
 1. https://www.codewars.com/
 
 # Carreira
+## artigos
+1. [How to understand any programming task](https://medium.freecodecamp.org/how-to-understand-any-programming-task-aea41eabe66e) (Justin Fuller)
 ## livros
 1. [Dicas de carreira para devs](https://leanpub.com/dicas-carreira-devs) ([eminetto](https://github.com/eminetto))
 1. [14 inspiring books to grow your career](https://www.atlassian.com/blog/inside-atlassian/14-inspiring-books-to-grow-your-career) (atlassian)
@@ -34,6 +36,7 @@
 1. [understanding design patterns in javascript](https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd) (Sukhjinder Arora
 )
 1. [Understanding Execution Context and Execution Stack in Javascript](https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0) (Sukhjinder Arora)
+1. [https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4) (Addy Osmani, 2018)
 ## cursos
 1. [node js para iniciantes (Erick Wendel)](https://cursos.nodebr.org/p/node-js-para-iniciantes-nodebr)
 1. [Mastering Async JavaScript](https://frontarm.com/courses/async-javascript/promises/why-async/) (frontarm)
@@ -57,6 +60,10 @@
 # UX
 ## artigos
 1. [Users Don’t Want Filters, They Want Better Content](https://medium.com/@hopper_travel/users-dont-want-filters-they-want-better-content-3146f650b8f6) (Hopper)
+
+# Testes
+## artigos
+1. https://medium.com/@fagnerbrack/the-test-should-verify-if-the-code-solves-the-problem-not-if-it-runs-afea37a3a6e
 
 # Tooling
 * https://www.markdownguide.org
@@ -133,8 +140,3 @@
 # Outros
 1. [free ebooks for web designers web developers](https://medium.com/web-development-zone/top-free-ebooks-for-web-designers-web-developers-f8c6a70465ad)
 1. [vercel](https://vercel.com/home#get-started)
-
-# links to organize
-1. https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4
-1. https://medium.com/@fagnerbrack/the-test-should-verify-if-the-code-solves-the-problem-not-if-it-runs-afea37a3a6e
-1. https://medium.freecodecamp.org/how-to-understand-any-programming-task-aea41eabe66e
