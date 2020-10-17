@@ -5,6 +5,8 @@
 # Carreira
 ## artigos
 1. [How to understand any programming task](https://medium.freecodecamp.org/how-to-understand-any-programming-task-aea41eabe66e) (Justin Fuller)
+## cursos
+1. [Reaprendizagem criativa e Técnicas de criatividade](https://murilogun.com.br/#cursos) (Murilo Gun)
 ## livros
 1. [Dicas de carreira para devs](https://leanpub.com/dicas-carreira-devs) ([eminetto](https://github.com/eminetto))
 1. [14 inspiring books to grow your career](https://www.atlassian.com/blog/inside-atlassian/14-inspiring-books-to-grow-your-career) (atlassian)
