@@ -28,8 +28,13 @@
 1. [The Front-End Operations Engineer](https://www.smashingmagazine.com/2013/06/front-end-ops/) (Alex Sexton, 2013)
 1. [Front End Ops Conf 2014 - Keynote by Alex Sexton, "Front End Operations"](https://www.youtube.com/watch?v=7HGe8zZ1G6k) (Alex Sexton, 2014)
 1. [Front End Operations: The Concept and Tools Overview](https://dinarys.com/blog/front-end-operations-the-concept-and-tools-overview) (dinarys, 2020)
+## CI/CD
+1. 
+## module bundler
 1. [A mostly complete guide to webpack (2020)](https://www.valentinog.com/blog/webpack/) (Valentino Gagliardi, 2020)
 1. [Summary of Webpack 4 Fundamentals by Sean Larkin (Part 1 of 4: Why Webpack?)](https://medium.com/@j_lim_j/summary-of-webpack-4-fundamentals-by-sean-larkin-part-1-of-4-why-webpack-e9112d81a588) (Lim, 2018)
+## transpiler
+1. [babeljs](https://babeljs.io/)
 
 # Git
 * https://learngitbranching.js.org/
