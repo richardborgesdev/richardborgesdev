@@ -28,6 +28,8 @@
 1. [The Front-End Operations Engineer](https://www.smashingmagazine.com/2013/06/front-end-ops/) (Alex Sexton, 2013)
 1. [Front End Ops Conf 2014 - Keynote by Alex Sexton, "Front End Operations"](https://www.youtube.com/watch?v=7HGe8zZ1G6k) (Alex Sexton, 2014)
 1. [Front End Operations: The Concept and Tools Overview](https://dinarys.com/blog/front-end-operations-the-concept-and-tools-overview) (dinarys, 2020)
+## AWS
+1. [Ramp-Up Guides](https://aws.amazon.com/training/ramp-up-guides/)
 ## CI/CD
 1. 
 ## module bundler
