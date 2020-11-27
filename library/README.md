@@ -32,6 +32,10 @@
 1. [Ramp-Up Guides](https://aws.amazon.com/training/ramp-up-guides/)
 ## CI/CD
 1. 
+## links
+1. [front-end checklist](https://github.com/thedaviddias/Front-End-Checklist#---------front-end-checklist-)
+1. [front-end performance checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist#---------front-end-performance-checklist-)
+1. [front-end design checklist](https://github.com/thedaviddias/Front-End-Design-Checklist#front-end-design-checklist)
 ## module bundler
 1. [A mostly complete guide to webpack (2020)](https://www.valentinog.com/blog/webpack/) (Valentino Gagliardi, 2020)
 1. [Summary of Webpack 4 Fundamentals by Sean Larkin (Part 1 of 4: Why Webpack?)](https://medium.com/@j_lim_j/summary-of-webpack-4-fundamentals-by-sean-larkin-part-1-of-4-why-webpack-e9112d81a588) (Lim, 2018)
