@@ -57,8 +57,9 @@
 ## cursos
 1. [node js para iniciantes (Erick Wendel)](https://cursos.nodebr.org/p/node-js-para-iniciantes-nodebr)
 1. [Mastering Async JavaScript](https://frontarm.com/courses/async-javascript/promises/why-async/) (frontarm)
-## sites
+## links
 1. [exploringjs (Dr. Axel Rauschmayer)](http://exploringjs.com/)
+1. [javascript testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 
 # Vuejs
 ## artigos
