@@ -158,3 +158,7 @@
 # Outros
 1. [free ebooks for web designers web developers](https://medium.com/web-development-zone/top-free-ebooks-for-web-designers-web-developers-f8c6a70465ad)
 1. [vercel](https://vercel.com/home#get-started)
+
+# livros que já li
+1. [Convite à filosofia](https://www.amazon.com.br/Convite-%C3%A0-Filosofia-Marilena-Chaui/dp/850813469X) (Marilena de Souza Chauí)
+1. [O guia definitivo do mochileiro das galáxias](https://www.amazon.com.br/guia-definitivo-mochileiro-das-gal%C3%A1xias/dp/8530601491) (Douglas Adams)
