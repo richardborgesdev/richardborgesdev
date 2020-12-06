@@ -165,14 +165,14 @@
 1. [A árvore do conhecimento](https://www.amazon.com.br/%C3%A1rvore-do-conhecimento-Humberto-Maturana/dp/8572420320) (Humberto R. Maturana)
 1. [Teoria geral dos sistemas: Fundamentos, desenvolvimento e aplicações](https://www.amazon.com.br/Teoria-geral-dos-sistemas-desenvolvimento/dp/853263690X) (Ludwig Von Bertalanffy)
 1. [Uml - Guia do Usuário](https://www.amazon.com.br/UML-Guia-Usu%C3%A1rio-Grady-Booch/dp/8535217843) (Grady Booch, James Rumbaugh, Ivar Jacobson)
-1. o livro da filosofia
-1. o hobbit
-1. silmarillion
+1. [O livro da filosofia](https://www.amazon.com.br/Livro-Filosofia-V%C3%A1rios-Autores/dp/8525063096)
+1. [O hobbit](https://www.amazon.com.br/Hobbit-p%C3%B4ster-J-R-R-Tolkien/dp/8595084742https://www.amazon.com.br/Hobbit-p%C3%B4ster-J-R-R-Tolkien/dp/8595084742) (J.R.R. Tolkien)
+1. [O silmarillion](https://www.amazon.com.br/Silmarillion-J-R-Tolkien/dp/8595084378) (J. R. R. Tolkien)
 1. game of thrones
-1. cavaleiro dos sete reinos
+1. [O cavaleiro dos sete reinos](https://www.amazon.com.br/Cavaleiro-dos-Sete-Reinos-Cr%C3%B4nicas/dp/8580449731) (George R. R. Martin)
 1. trilogia do mago negro
-1. a arte da guerra
 1. o principe
+1. a arte da guerra
 1. sistemas colaborativos
 1. o exorcista
 1. prince of thorns
@@ -185,6 +185,7 @@
 1. a sutil arte de ligar o foda-se
 1. mindset
 1. o milagre da manhã
+1. 5 linguagens do amor
 1. o poder do hábito
 1. o jeito harward de ser feliz
 1. [Extreme Programming: Aprenda Como Encantar Seus Usuários Desenvolvendo Software com Agilidade e Alta Qualidade](https://www.amazon.com.br/Extreme-Programming-Vin%C3%ADcius-Manh%C3%A3es-Teles/dp/857522400X) (Vinícius Manhães Teles )
