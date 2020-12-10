@@ -168,10 +168,10 @@
 1. [O livro da filosofia](https://www.amazon.com.br/Livro-Filosofia-V%C3%A1rios-Autores/dp/8525063096)
 1. [O hobbit](https://www.amazon.com.br/Hobbit-p%C3%B4ster-J-R-R-Tolkien/dp/8595084742https://www.amazon.com.br/Hobbit-p%C3%B4ster-J-R-R-Tolkien/dp/8595084742) (J.R.R. Tolkien)
 1. [O silmarillion](https://www.amazon.com.br/Silmarillion-J-R-Tolkien/dp/8595084378) (J. R. R. Tolkien)
+1. [Trilogia do Mago Negro](https://www.amazon.com.br/Trilogia-do-Mago-Negro/dp/8581630510) (Trudi Canavan)
 1. game of thrones
 1. [O cavaleiro dos sete reinos](https://www.amazon.com.br/Cavaleiro-dos-Sete-Reinos-Cr%C3%B4nicas/dp/8580449731) (George R. R. Martin)
-1. trilogia do mago negro
-1. o principe
+1. [O príncipe](https://www.amazon.com.br/pr%C3%ADncipe-Nicolau-Maquiavel/dp/8563560034) (Nicolau Maquiavel)
 1. a arte da guerra
 1. sistemas colaborativos
 1. o exorcista
