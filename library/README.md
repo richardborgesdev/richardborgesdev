@@ -172,7 +172,7 @@
 1. game of thrones
 1. [O cavaleiro dos sete reinos](https://www.amazon.com.br/Cavaleiro-dos-Sete-Reinos-Cr%C3%B4nicas/dp/8580449731) (George R. R. Martin)
 1. [O príncipe](https://www.amazon.com.br/pr%C3%ADncipe-Nicolau-Maquiavel/dp/8563560034) (Nicolau Maquiavel)
-1. a arte da guerra
+1. [A Arte da Guerra](https://www.amazon.com.br/Arte-Guerra-Sun-Tzu/dp/856001800X) (Sun Tzu)
 1. sistemas colaborativos
 1. o exorcista
 1. prince of thorns
