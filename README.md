@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Richard Borges' GitHub Stats](https://github-readme-stats.vercel.app/api?username=richardborgescc&show_icons=true&count_private=true&theme=vue)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=richardborgescc)](https://github.com/ryo-ma/github-profile-trophy)
