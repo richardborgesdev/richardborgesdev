@@ -174,9 +174,9 @@
 1. [O príncipe](https://www.amazon.com.br/pr%C3%ADncipe-Nicolau-Maquiavel/dp/8563560034) (Nicolau Maquiavel)
 1. [A Arte da Guerra](https://www.amazon.com.br/Arte-Guerra-Sun-Tzu/dp/856001800X) (Sun Tzu)
 1. [Sistemas colaborativos](https://www.amazon.com.br/Sistemas-Colaborativos-Mariano-Pimentel/dp/853524669X) (Mariano Pimentel, Hugo Fuks)
-1. o exorcista
-1. prince of thorns
-1. king of thorns
+1. [O Exorcista](https://www.amazon.com.br/Exorcista-William-Peter-Blatty/dp/8595086230) (William Peter Blatty)
+1. [Prince of thorns](https://www.amazon.com.br/Prince-Thorns-Trilogia-Espinhos-Livro-ebook/dp/B0167129PE) (Mark Lawrence)
+1. [King of thorns](https://www.amazon.com.br/King-Thorns-Trilogia-Espinhos-Livro-ebook/dp/B016726H74) (Mark Lawrence)
 1. a culpa é das estrelas
 1. protocolo bluehand: zumbis
 1. o livro da psicologia
