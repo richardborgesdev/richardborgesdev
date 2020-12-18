@@ -177,9 +177,9 @@
 1. [O Exorcista](https://www.amazon.com.br/Exorcista-William-Peter-Blatty/dp/8595086230) (William Peter Blatty)
 1. [Prince of thorns](https://www.amazon.com.br/Prince-Thorns-Trilogia-Espinhos-Livro-ebook/dp/B0167129PE) (Mark Lawrence)
 1. [King of thorns](https://www.amazon.com.br/King-Thorns-Trilogia-Espinhos-Livro-ebook/dp/B016726H74) (Mark Lawrence)
-1. a culpa é das estrelas
-1. protocolo bluehand: zumbis
-1. o livro da psicologia
+1. [A Culpa É das Estrelas](https://www.amazon.com.br/Culpa-%C3%89-das-Estrelas/dp/8580572266) (John Green)
+1. [protocolo bluehand: zumbis](https://www.amazon.com.br/Protocolo-Bluehand-Abu-Fobiya-outros/dp/859132773X) (Abu Fobiya)
+1. [o livro da psicologia](https://www.amazon.com.br/Livro-Psicologia-V%C3%A1rios-Autores/dp/8525062499)
 1. design sprint
 1. design do dia a dia
 1. a sutil arte de ligar o foda-se
