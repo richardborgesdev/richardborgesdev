@@ -180,9 +180,10 @@
 1. [A Culpa É das Estrelas](https://www.amazon.com.br/Culpa-%C3%89-das-Estrelas/dp/8580572266) (John Green)
 1. [protocolo bluehand: zumbis](https://www.amazon.com.br/Protocolo-Bluehand-Abu-Fobiya-outros/dp/859132773X) (Abu Fobiya)
 1. [o livro da psicologia](https://www.amazon.com.br/Livro-Psicologia-V%C3%A1rios-Autores/dp/8525062499)
-1. design sprint
-1. design do dia a dia
-1. a sutil arte de ligar o foda-se
+1. [Sprint](https://www.amazon.com.br/Sprint-M%C3%A9todo-Google-Testar-Aplicar/dp/8551001523) (Jake Knapp, John Zeratsky, Braden Kowitz, Andrea Gottlieb)
+1. [O design do dia a dia](https://www.amazon.com.br/Design-do-Dia/dp/8532520839) (	
+Donald A. Norman)
+1. [A Sutil Arte de Ligar o F*da-Se](https://www.amazon.com.br/Sutil-Arte-Ligar-Se/dp/855100249X) (Mark Manson)
 1. mindset
 1. o milagre da manhã
 1. 5 linguagens do amor
