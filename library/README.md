@@ -184,9 +184,9 @@
 1. [O design do dia a dia](https://www.amazon.com.br/Design-do-Dia/dp/8532520839) (	
 Donald A. Norman)
 1. [A Sutil Arte de Ligar o F*da-Se](https://www.amazon.com.br/Sutil-Arte-Ligar-Se/dp/855100249X) (Mark Manson)
-1. mindset
-1. o milagre da manhã
-1. 5 linguagens do amor
+1. [Mindset](https://www.amazon.com.br/Mindset-Carol-S-Dweck/dp/8547000240) (Carol S. Dweck)
+1. [O milagre da manhã](https://www.amazon.com.br/milagre-manh%C3%A3-Hal-Elrod/dp/8576849941) (Hal Elrod)
+1. [As cinco linguagens do amor](https://www.amazon.com.br/cinco-linguagens-amor-expressar-compromisso/dp/8573258926) (Gary Chapman)
 1. o poder do hábito
 1. o jeito harward de ser feliz
 1. [Extreme Programming: Aprenda Como Encantar Seus Usuários Desenvolvendo Software com Agilidade e Alta Qualidade](https://www.amazon.com.br/Extreme-Programming-Vin%C3%ADcius-Manh%C3%A3es-Teles/dp/857522400X) (Vinícius Manhães Teles )
