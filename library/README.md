@@ -187,8 +187,9 @@ Donald A. Norman)
 1. [Mindset](https://www.amazon.com.br/Mindset-Carol-S-Dweck/dp/8547000240) (Carol S. Dweck)
 1. [O milagre da manhã](https://www.amazon.com.br/milagre-manh%C3%A3-Hal-Elrod/dp/8576849941) (Hal Elrod)
 1. [As cinco linguagens do amor](https://www.amazon.com.br/cinco-linguagens-amor-expressar-compromisso/dp/8573258926) (Gary Chapman)
-1. o poder do hábito
-1. o jeito harward de ser feliz
+1. [O poder do hábito](https://www.amazon.com.br/poder-do-h%C3%A1bito-Charles-Duhigg/dp/8539004119) (Charles Duhigg)
+1. [O jeito harward de ser feliz](https://www.amazon.com.br/Jeito-Harvard-Ser-Feliz/dp/8502180266) (	
+Shawn Achor)
 1. [Extreme Programming: Aprenda Como Encantar Seus Usuários Desenvolvendo Software com Agilidade e Alta Qualidade](https://www.amazon.com.br/Extreme-Programming-Vin%C3%ADcius-Manh%C3%A3es-Teles/dp/857522400X) (Vinícius Manhães Teles )
 1. peopleware
 1. Sapiens - Uma Breve História da Humanidade
