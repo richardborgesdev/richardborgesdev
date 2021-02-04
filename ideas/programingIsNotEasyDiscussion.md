@@ -56,7 +56,14 @@
 - se o problema está 100% compreendido é dificil programá-lo?
 - todo programador tem que ser analista
 
-# temas pra discutir
+# roteiro
+1. motivação
+1. antes: temas para discutir
+1. slide com tópicos?
+1. vídeos
+1. fim: temas para discutir
+
+# temas para discutir
 1. opinião do pessoal?
 1. quando tiveram o primeiro contato?
 1. primeira referência ou alguém que te influênciou muito?
