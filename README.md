@@ -6,4 +6,3 @@
 |[![trophy](https://github-profile-trophy.vercel.app/?username=richardborgescc)](https://github.com/ryo-ma/github-profile-trophy)
 |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardborgescc&theme=vue)
 |![richardborgescc](https://www.codewars.com/users/richardborgescc/badges/large)
-|
