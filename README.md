@@ -14,4 +14,4 @@
 
 ---
 
-![richardborgescc](https://www.codewars.com/users/richardborgescc/badges/small)
+![richardborgescc](https://www.codewars.com/users/richardborgescc/badges/large)
