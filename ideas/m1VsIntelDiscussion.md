@@ -1,5 +1,6 @@
 # Dicussão sobre hardware e produtividade m1 x intel
-
+1. Como gerar uma discusão pra guilda nesse formato
+1. Como encontrar bons canais de tec no youtube
 1. Distância entre front-end e hardware
 1. Influência na performance na produtividade antigamente e hoje
 1. ----
