@@ -2,7 +2,7 @@
 
 ---
 
-![Richard Borges' GitHub Stats](https://github-readme-stats.vercel.app/api?username=richardborgescc&show_icons=true&count_private=true&theme=dark)
+![Richard Borges' GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=richardborgescc&border=e4e2e2&theme=dark)
 
 ---
 
