@@ -1,4 +1,4 @@
-### Hi, I'm Richard Borges :person_bald: 👋 :musical_score: :brazil:
+### Hi, I'm Richard Borges :person_bald: 👋 :video_game: :musical_score: :brazil:
 
 ---
 
