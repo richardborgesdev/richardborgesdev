@@ -2,7 +2,8 @@
 
 ---
 
-![Richard Borges' GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=richardborgesdev&border=e4e2e2&theme=dark)
+[![Richard Borges' GitHub Stats](https://streak-stats.demolab.com/?user=richardborgesdev&theme=dark)](https://git.io/streak-stats)
+
 
 ---
 
