@@ -181,6 +181,7 @@ George R. R. Martin)
 1. [A Culpa É das Estrelas](https://www.amazon.com.br/Culpa-%C3%89-das-Estrelas/dp/8580572266) (John Green)
 1. [protocolo bluehand: zumbis](https://www.amazon.com.br/Protocolo-Bluehand-Abu-Fobiya-outros/dp/859132773X) (Abu Fobiya)
 1. [O livro da psicologia](https://www.amazon.com.br/Livro-Psicologia-V%C3%A1rios-Autores/dp/8525062499)
+1. [A vida que vale a pena ser vivida](https://www.amazon.com.br/Vida-que-vale-pena-vivida/dp/8532639585) (Clóvis de Barros Filho)
 1. [Sprint](https://www.amazon.com.br/Sprint-M%C3%A9todo-Google-Testar-Aplicar/dp/8551001523) (Jake Knapp, John Zeratsky, Braden Kowitz, Andrea Gottlieb)
 1. [O design do dia a dia](https://www.amazon.com.br/Design-do-Dia/dp/8532520839) (	
 Donald A. Norman)
