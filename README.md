@@ -2,10 +2,6 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=richardborgesdev&theme=dark&mode=weekly)](https://git.io/streak-stats)
-
----
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=richardborgesdev&theme=nord&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
