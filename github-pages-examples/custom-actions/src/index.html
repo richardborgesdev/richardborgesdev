@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= htmlWebpackPlugin.options.title %></title>
+    <meta name="description" content="Demonstration of GitHub Pages with custom build process using Webpack">
+</head>
+<body>
+    <div id="app">
+        <header class="header">
+            <div class="container">
+                <h1>GitHub Pages + Custom Build Process</h1>
+                <p>Modern development workflow with Webpack, Babel, and automated deployment</p>
+            </div>
+        </header>
+        
+        <main class="main">
+            <div class="container">
+                <section class="intro-section">
+                    <h2>Custom Build Pipeline</h2>
+                    <p>This site demonstrates how to use GitHub Actions with modern JavaScript tooling for GitHub Pages deployment.</p>
+                    
+                    <div class="features-grid">
+                        <div class="feature">
+                            <h3>📦 Webpack</h3>
+                            <p>Module bundling and asset optimization</p>
+                        </div>
+                        <div class="feature">
+                            <h3>🔄 Babel</h3>
+                            <p>Modern JavaScript transpilation</p>
+                        </div>
+                        <div class="feature">
+                            <h3>⚡ GitHub Actions</h3>
+                            <p>Automated CI/CD deployment</p>
+                        </div>
+                        <div class="feature">
+                            <h3>📊 Interactive Charts</h3>
+                            <p>Dynamic content with Chart.js</p>
+                        </div>
+                    </div>
+                </section>
+                
+                <section class="demo-section">
+                    <h2>Interactive Demo</h2>
+                    <p>Here's a live chart showing GitHub Pages deployment statistics:</p>
+                    <div class="chart-container">
+                        <canvas id="deploymentChart" width="400" height="200"></canvas>
+                    </div>
+                </section>
+                
+                <section class="workflow-section">
+                    <h2>Deployment Workflow</h2>
+                    <div class="workflow-steps">
+                        <div class="step">
+                            <div class="step-number">1</div>
+                            <div class="step-content">
+                                <h4>Code Push</h4>
+                                <p>Developer pushes code to repository</p>
+                            </div>
+                        </div>
+                        <div class="step">
+                            <div class="step-number">2</div>
+                            <div class="step-content">
+                                <h4>GitHub Actions Trigger</h4>
+                                <p>Workflow automatically starts on push</p>
+                            </div>
+                        </div>
+                        <div class="step">
+                            <div class="step-number">3</div>
+                            <div class="step-content">
+                                <h4>Build Process</h4>
+                                <p>Webpack bundles and optimizes assets</p>
+                            </div>
+                        </div>
+                        <div class="step">
+                            <div class="step-number">4</div>
+                            <div class="step-content">
+                                <h4>Deploy to Pages</h4>
+                                <p>Built files deployed to GitHub Pages</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                
+                <section class="code-section">
+                    <h2>Example Configuration</h2>
+                    <div class="code-example">
+                        <h4>GitHub Actions Workflow (.github/workflows/deploy.yml)</h4>
+                        <pre><code>name: Build and Deploy
+on:
+  push:
+    branches: [main]
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      - run: npm ci
+      - run: npm run build
+      - uses: actions/deploy-pages@v4</code></pre>
+                    </div>
+                </section>
+            </div>
+        </main>
+        
+        <footer class="footer">
+            <div class="container">
+                <p>&copy; 2025 GitHub Pages Examples. Built with ❤️ and modern web technologies.</p>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>
