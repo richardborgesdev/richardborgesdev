@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<article class="project">
+  <header class="project-header">
+    <h1 class="project-title">{{ page.title | escape }}</h1>
+    {%- if page.description -%}
+      <p class="project-description">{{ page.description }}</p>
+    {%- endif -%}
+    {%- if page.technologies -%}
+      <div class="project-technologies">
+        <strong>Technologies:</strong>
+        {%- for tech in page.technologies -%}
+          <span class="tech-tag">{{ tech }}</span>
+        {%- endfor -%}
+      </div>
+    {%- endif -%}
+  </header>
+
+  <div class="project-content">
+    {{ content }}
+  </div>
+
+  {%- if page.github_url or page.demo_url -%}
+    <div class="project-links">
+      {%- if page.github_url -%}
+        <a href="{{ page.github_url }}" class="project-link github-link" target="_blank" rel="noopener">
+          View on GitHub
+        </a>
+      {%- endif -%}
+      {%- if page.demo_url -%}
+        <a href="{{ page.demo_url }}" class="project-link demo-link" target="_blank" rel="noopener">
+          Live Demo
+        </a>
+      {%- endif -%}
+    </div>
+  {%- endif -%}
+</article>

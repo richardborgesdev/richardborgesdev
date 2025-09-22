@@ -1,0 +1,289 @@
+---
+layout: default
+title: "GitHub Pages with Jekyll"
+---
+
+<div class="home">
+  <div class="hero-section">
+    <h1 class="hero-title">{{ site.title }}</h1>
+    <p class="hero-subtitle">{{ site.description }}</p>
+    <div class="hero-buttons">
+      <a href="{{ '/about' | relative_url }}" class="btn btn-primary">Learn More</a>
+      <a href="{{ '/posts' | relative_url }}" class="btn btn-secondary">View Posts</a>
+    </div>
+  </div>
+
+  <section class="features-section">
+    <h2>Jekyll Features</h2>
+    <div class="features-grid">
+      <div class="feature-card">
+        <div class="feature-icon">📝</div>
+        <h3>Markdown Support</h3>
+        <p>Write content in Markdown and Jekyll converts it to HTML automatically.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">🎨</div>
+        <h3>Liquid Templates</h3>
+        <p>Use Liquid templating language for dynamic content generation.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">🔌</div>
+        <h3>Plugin Ecosystem</h3>
+        <p>Extend functionality with a rich ecosystem of Jekyll plugins.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">📱</div>
+        <h3>Responsive Themes</h3>
+        <p>Beautiful, mobile-friendly themes that work out of the box.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="posts-section">
+    <h2>Latest Posts</h2>
+    {% if site.posts.size > 0 %}
+      <div class="posts-grid">
+        {% for post in site.posts limit:3 %}
+          <article class="post-card">
+            <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+            <p class="post-meta">
+              <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+              {% if post.author %} • by {{ post.author }}{% endif %}
+            </p>
+            <p>{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
+            <a href="{{ post.url | relative_url }}" class="read-more">Read more →</a>
+          </article>
+        {% endfor %}
+      </div>
+      <div class="view-all-posts">
+        <a href="{{ '/posts' | relative_url }}" class="btn btn-outline">View All Posts</a>
+      </div>
+    {% else %}
+      <p>No posts found. Check back later!</p>
+    {% endif %}
+  </section>
+
+  <section class="projects-section">
+    <h2>Featured Projects</h2>
+    {% assign featured_projects = site.projects | where: "featured", true %}
+    {% if featured_projects.size > 0 %}
+      <div class="projects-grid">
+        {% for project in featured_projects limit:2 %}
+          <div class="project-card">
+            <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
+            <p>{{ project.description }}</p>
+            {% if project.technologies %}
+              <div class="tech-tags">
+                {% for tech in project.technologies %}
+                  <span class="tech-tag">{{ tech }}</span>
+                {% endfor %}
+              </div>
+            {% endif %}
+            <div class="project-links">
+              <a href="{{ project.url | relative_url }}" class="btn btn-small">Learn More</a>
+              {% if project.github_url %}
+                <a href="{{ project.github_url }}" class="btn btn-small btn-outline" target="_blank">GitHub</a>
+              {% endif %}
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    {% else %}
+      <p>No featured projects available.</p>
+    {% endif %}
+  </section>
+</div>
+
+<style>
+.hero-section {
+  text-align: center;
+  padding: 4rem 0;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  margin: -2rem -2rem 3rem;
+  border-radius: 0 0 1rem 1rem;
+}
+
+.hero-title {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.hero-subtitle {
+  font-size: 1.25rem;
+  margin-bottom: 2rem;
+  opacity: 0.9;
+}
+
+.hero-buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  text-decoration: none;
+  border-radius: 0.5rem;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.btn-primary {
+  background-color: white;
+  color: #667eea;
+}
+
+.btn-secondary {
+  background-color: transparent;
+  color: white;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+}
+
+.btn-outline {
+  background-color: transparent;
+  color: #667eea;
+  border: 2px solid #667eea;
+}
+
+.btn-small {
+  padding: 0.5rem 1rem;
+  font-size: 0.9rem;
+}
+
+.features-section,
+.posts-section,
+.projects-section {
+  margin: 4rem 0;
+}
+
+.features-section h2,
+.posts-section h2,
+.projects-section h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #333;
+}
+
+.features-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.feature-card {
+  background: white;
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  border: 1px solid #e2e8f0;
+}
+
+.feature-icon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.posts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.post-card {
+  background: white;
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border: 1px solid #e2e8f0;
+}
+
+.post-card h3 a {
+  color: #333;
+  text-decoration: none;
+}
+
+.post-card h3 a:hover {
+  color: #667eea;
+}
+
+.post-meta {
+  color: #666;
+  font-size: 0.9rem;
+  margin: 0.5rem 0 1rem;
+}
+
+.read-more {
+  color: #667eea;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.view-all-posts {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.project-card {
+  background: white;
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border: 1px solid #e2e8f0;
+}
+
+.tech-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
+
+.tech-tag {
+  background: #e2e8f0;
+  color: #4a5568;
+  padding: 0.25rem 0.75rem;
+  border-radius: 1rem;
+  font-size: 0.8rem;
+}
+
+.project-links {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+@media (max-width: 768px) {
+  .hero-title {
+    font-size: 2rem;
+  }
+  
+  .hero-buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .features-grid,
+  .posts-grid,
+  .projects-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .project-links {
+    flex-direction: column;
+  }
+}
+</style>
