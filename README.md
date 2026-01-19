@@ -2,8 +2,8 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=richardborgesdev&theme=nord&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+![richardborgesdev's Stats](https://github-readme-stats.vercel.app/api?username=richardborgesdev&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardborgesdev&theme=dark)
+![richardborgesdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richardborgesdev&theme=dark&show_icons=true&hide_border=true&layout=compact)
